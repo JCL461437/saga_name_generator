@@ -50,7 +50,7 @@ that as well.
 1. Install `virtualenv` (if not already installed). `virtualenv` is a tool to create isolated Python environments which we will use for setting up this repository.
 To install run `pip3 install virtualenv`.
 
-2. Run the following command to create a virtual environment in the root directory of the project (`/chess-game-be`): `python3 -m venv venv`
+2. Run the following command to create a virtual environment in the root directory of the project (`/saga_name_generator`): `python3 -m venv venv`
 Note that if you are on a Mac or Linux os the command `python3` must be followed by a three, so that it looks like `python3`. 
 This will create a directory called venv in your project folder, which contains the isolated Python environment.
 
